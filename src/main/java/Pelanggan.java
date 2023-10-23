@@ -49,7 +49,7 @@ public class Pelanggan extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(102, 255, 255));
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
-        jLabel1.setText("Selamat Datang di Halaman Login Rental Mobil");
+        jLabel1.setText("Selamat Datang di Halaman Awal Rental Mobil");
 
         jButton3.setText("Masuk ke Pemesanan Mobil");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
@@ -65,7 +65,7 @@ public class Pelanggan extends javax.swing.JFrame {
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(63, 63, 63)
                 .addComponent(jLabel1)
-                .addContainerGap(110, Short.MAX_VALUE))
+                .addContainerGap(115, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jButton3)

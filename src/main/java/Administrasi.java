@@ -206,7 +206,7 @@ public class Administrasi extends javax.swing.JFrame {
     }//GEN-LAST:event_jRadioButton4ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        Login a=new Login();
+        Akhir a=new Akhir();
         a.setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
 
