@@ -132,12 +132,12 @@ public class regis extends javax.swing.JPanel {
     }//GEN-LAST:event_jTextField5ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-     Login a=new Login();
+     Pelanggan a=new Pelanggan();
      a.setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-     Login b=new Login();
+     Pelanggan b=new Pelanggan();
      b.setVisible(true);
     }//GEN-LAST:event_jButton2ActionPerformed
 
